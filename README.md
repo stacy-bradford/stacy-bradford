@@ -1,5 +1,6 @@
 ## Hello world.  I'm Stacy. 👋
-
+<html>
+<div style="font-family: 'Courier New', Courier, monospace;">
 I'm a life long learner whose curious by nature.  I'm super passionate about open source and the still to be unrealized potential of web3
 as both of which share my core values of collaboration and transparency.  But I'm going to do something different as me - instead of 
 pinning the projects I've created while upskilling Python and SQL - I'm to live my values and elevate devs and their OS tools that are 
