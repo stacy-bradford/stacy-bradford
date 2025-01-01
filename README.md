@@ -3,8 +3,8 @@
 <p style="font-family: 'Courier New', Courier, monospace;">
 I'm a life long learner whose curious by nature.  I'm super passionate about open source and the still to be realized potential of web3
 as both of which share my core values of collaboration and transparency.  But I'm going to do something as different as me - instead of 
-pinning all of the projects I've created while upskilling code - I'm to live my values and elevate devs and their OS tools that are 
-integral to my process.  
+pinning all of the projects I've created while upskilling code - I'm going to live my values and elevate devs and their OS tools that are 
+integral to my process.  Plus some other stuff.  👽
 
 Special shout out to:
 [CemTurk](https://github.com/cemhurturk)
