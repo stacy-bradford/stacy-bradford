@@ -10,6 +10,7 @@ Special shout out to:
 [CemTurk](https://github.com/cemhurturk)
 [Sequence](https://github.com/sequence-so)
 [Funny](https://github.com/imfunniee)
+[AsifRashid01](https://github.com/AsifRashid01)
 
 My more conventional tech stack:
 [Gong](https://github.com/gong-io)
