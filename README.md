@@ -26,7 +26,7 @@ And the languages I've learned using [CodeCademy](https://github.com/codecademy)
 [Python](https://github.com/python)
 
 Currently Learning:
-[sui](https://github.com/MystenLabs/sui) using [MetaSchool](https://github.com/0xmetaschool)
+[sui](https://github.com/MystenLabs/sui) using [MetaSchool](https://github.com/0xmetaschool) & going through the curriculm at [YCombinator's StartUp School](https://www.startupschool.org/)
 
 </p>
 
