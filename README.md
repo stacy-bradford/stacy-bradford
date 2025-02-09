@@ -1,10 +1,12 @@
 ## Hello world.  I'm Stacy. 👋
 <html>
 <p style="font-family: 'Courier New', Courier, monospace;">
-I'm a life long learner whose curious by nature.  I'm super passionate about open source and the still to be realized potential of web3
-as both of which share my core values of collaboration and transparency.  But I'm going to do something as different as me - instead of 
-pinning all of the projects I've created while upskilling code - I'm going to live my values and elevate devs and their OS tools that are 
-integral to my process.  Plus some other stuff.  👽
+I'm a life long learner who's curious by nature.  As someone who values collaboration and 
+  transparency - it should come as no shock that I'm super passionate about open source 
+  and the still to be realized potential of web3.  Additionally you shoud know I'm going 
+  to do something as different as me with my Github profile - instead of pinning all of the 
+  projects I've created while upskilling SQL and Python - I'm going to live my values and 
+  elevate devs and their OS tools that are integral to my process.  Plus some other stuff.  👽
 
 Special shout out to:
 [CemTurk](https://github.com/cemhurturk)
