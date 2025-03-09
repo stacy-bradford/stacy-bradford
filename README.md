@@ -22,6 +22,8 @@ My more conventional tech stack:
 [Salesforce](https://github.com/salesforce)
 [Looker](https://github.com/looker)
 [Sailthru](https://github.com/sailthru)
+[Fathom](https://fathom.video)
+[Anthropic](https://github.com/anthropics)
 
 And the languages I've learned using [CodeCademy](https://github.com/codecademy):
 [SQL](https://github.com/s-shemmee/SQL-101)
